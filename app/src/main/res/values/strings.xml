@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dcee</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intents">IntentsActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_assign">AssignActivity</string>
+    <string name="title_activity_first_screen">FirstScreenActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="title_activity_furniture">FurnitureActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+</resources>
